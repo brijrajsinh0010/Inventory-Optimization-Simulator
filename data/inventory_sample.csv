@@ -1,0 +1,18 @@
+```csv
+product_id,name,stock,reorder_level,daily_demand,unit_cost
+P101,Rice 5 kg,12,20,4,250
+P102,Cooking Oil 1 L,0,15,6,140
+P103,Sugar 1 kg,45,25,5,42
+P104,Tea Powder 250 g,8,10,2,95
+P105,Notebook A4,30,20,3,30
+P106,Toothpaste,6,12,3,60
+P107,Detergent 1 kg,14,15,2,110
+P108,Milk 1 L,5,10,8,65
+P109,Soap,18,12,2,35
+P110,Shampoo 180 ml,4,10,2,120
+P111,Wheat Flour 5 kg,9,15,3,220
+P112,Biscuits,25,20,5,20
+P113,Coffee 100 g,3,8,1,160
+P114,Handwash 250 ml,7,12,2,75
+P115,Notebook A5,40,25,4,20
+```
