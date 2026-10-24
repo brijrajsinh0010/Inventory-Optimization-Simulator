@@ -1,0 +1,3 @@
+# Smart Inventory Optimization System
+# Core functionality uses the Python standard library.
+# No third-party packages are currently required.
