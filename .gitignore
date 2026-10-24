@@ -1,0 +1,45 @@
+# Python bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Environment variables and secrets
+.env
+.env.*
+!.env.example
+
+# Test and coverage artifacts
+.coverage
+htmlcov/
+.pytest_cache/
+
+# IDE settings
+.vscode/
+.idea/
+
+# Operating system files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.bak
+
+# Build artifacts
+build/
+dist/
+*.egg-info/
+
+# Local benchmark output
+# Keep the results directory tracked if it contains documented sample results.
+# Ignore only temporary benchmark files.
+results/*.tmp
